@@ -1,0 +1,18 @@
+{
+    "name": "florianletsch/theme-twig",
+    "type": "pagekit-theme",
+    "version": "1.0.0",
+    "title": "Hello Twig",
+    "description": "A blueprint to develop a Pagekit theme using Twig.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Florian Letsch",
+            "email": "florian@yootheme.com",
+            "homepage": "https://github.com/florianletsch"
+        }
+    ],
+    "extra": {
+        "image": "image.jpg"
+    }
+}
